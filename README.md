@@ -1,1 +1,1 @@
-I have published an article over this project on medium. You can read it at: 
+I have published an article over this project on medium. You can read it at: https://medium.com/@ujjawalshah1080/using-deep-learning-for-audio-classification-of-urban8k-dataset-based-on-the-mel-frequency-cepstral-7cc52f55a97
